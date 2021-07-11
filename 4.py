@@ -1,3 +1,3 @@
-x = 4
-x = ("Akzhan")
-print(x)
+fruits = {"apple", "banana", "cherry"}
+if "apple" in fruits:
+    print("Yes, apple is a fruit!")

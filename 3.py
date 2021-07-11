@@ -1,4 +1,2 @@
-x = 5
-y = "John"
-print (x)
-print (y)
+fruits = ["apple", "banana", "cherry"]
+fruits[0] = "kiwi"

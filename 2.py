@@ -1,2 +1,3 @@
-if 5 > 2:
-    print("Five greater than two")
+class Solution:
+    def defangIPaddr(self, address: str) -> str:
+        return address.replace('.', '[.]')
