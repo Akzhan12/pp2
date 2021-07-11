@@ -1,0 +1,4 @@
+Python is a great object-oriented, interpreted, and interactive
+programming language. It is often compared (favorably of course :-) )
+to Lisp, Tcl, Perl, Ruby, C#, Visual Basic, Visual Fox Pro, Scheme or Java...
+and it's much more fun.

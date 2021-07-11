@@ -1,0 +1,4 @@
+Welcome to the Python Wiki, a user-editable compendium of knowledge
+based around the Python programming language. Some pages are protected
+against casual editing - see WikiEditingGuidelines for more information
+about editing content.
