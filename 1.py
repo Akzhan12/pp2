@@ -1,9 +1,5 @@
-class Solution:
-    def defangIPaddr(self, address: str) -> str:
-        ret = []
-        for ch in address:
-            if ch == '.':
-                ret.append('[.]')
-            else:
-                ret.append(ch)
-        return "".join(ret)
+  
+a = list(map(int, input().split()))
+for i in range(len(a)):
+    if i % 2 == 0:
+        print(a[i], end = ' ')

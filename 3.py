@@ -1,2 +1,2 @@
-fruits = ["apple", "banana", "cherry"]
-fruits[0] = "kiwi"
+a = list(map(int, input().strip().split()))
+print(*a[::-1])
